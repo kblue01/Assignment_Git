@@ -1,1 +1,3 @@
 This is sample file to be used for test RM command
+Adding second line to this file as well.
+here comes third.
